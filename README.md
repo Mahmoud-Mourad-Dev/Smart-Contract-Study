@@ -16,14 +16,16 @@ mindmap
 
 
 ```mermaid
+config:
+  theme: mc
+---
 mindmap
-  root((Study))
-     AMM-Dex Internals
-      uniswap V4 Hooks
-      concentrated Liquidity
-
-      Lending-Liquidation
-       oracle design
+)Study(
+  AMM-Dex Internals
+    uniswap V4 Hooks
+    concentrated Liquidity
+  Lending-Liquidation
+    oracle design
     
 ```
 
