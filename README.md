@@ -12,7 +12,7 @@ mindmap
     
 ```
 
-# Focus
+# What I Have To Focus
 
 
 ```mermaid
