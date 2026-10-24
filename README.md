@@ -10,6 +10,20 @@ mindmap
      Rounding
      Malti-Step reasoning
     
+```
 
+# Focus
+
+
+```mermaid
+mindmap
+  root((Study))
+     AMM-Dex Internals
+      uniswap V4 Hooks
+      concentrated Liquidity
+
+      Lending-Liquidation
+       oracle design
     
 ```
+
