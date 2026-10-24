@@ -16,9 +16,7 @@ mindmap
 
 
 ```mermaid
-config:
-  theme: mc
----
+
 mindmap
 )Study(
   AMM-Dex Internals
