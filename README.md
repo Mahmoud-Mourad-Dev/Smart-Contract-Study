@@ -138,3 +138,8 @@ mindmap
    fuzz and test
 ```
 
+```
+Invariant = قاعدة لازم تفضل صحيحة مهما حصل من معاملات أو عمليات داخل الـ Smart Contract.
+```
+
+
